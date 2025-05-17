@@ -1,1 +1,2 @@
 # Hello-World
+in web design, I aim to build responsive, visually appealing, and user-friendly websites that not only look professional but also provide seamless user experiences. I want to combine strong UI/UX design principles with functionality, accessibility, and SEO best practices to help businesses grow their online presence and connect better with their audiences.
